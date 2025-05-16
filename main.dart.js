@@ -34750,7 +34750,7 @@ if(A.kH(m,n.$ti.c).length<7){o=o.y
 s=B.d.n2(o.a.a)
 if(s.length!==0&&A.a1M(s,null)!=null){r=A.hH(s,null)
 q=$.m8().gG()
-if(q!=null)q.mm("Stack was pushed with P(S, "+r+")")
+if(q!=null)q.mm("A pilha S ap\xf3s as chamada Push(S, "+r+")")
 m.push(r)
 p=m.length-1
 m=n.b
@@ -34758,8 +34758,8 @@ if(p<m.length)m[p]=r
 else m.push(r)
 n.ao()
 o.pt(B.Lg)}else{o=$.m8().gG()
-if(o!=null)o.mm("Error: Invalid input")}}else{o=$.m8().gG()
-if(o!=null)o.mm("Error: 'Overflow'")}},
+if(o!=null)o.mm("error entrada inv\xe1lida")}}else{o=$.m8().gG()
+if(o!=null)o.mm('error "overflow"')}},
 $S:0}
 A.adt.prototype={
 $0(){var s=this.a
@@ -34768,14 +34768,14 @@ $S:0}
 A.adi.prototype={
 $0(){var s,r=this.a.d
 if(A.kH(r.a,r.$ti.c).length===0){r=$.m8().gG()
-if(r!=null)r.mm("Error: 'underflow'")}else{s=$.m8().gG()
-if(s!=null)s.mm("Stack was popped with P(S)")
+if(r!=null)r.mm('error "underflow"')}else{s=$.m8().gG()
+if(s!=null)s.mm("A pilha S ap\xf3s a chamada Pop(S)")
 r.ea()}},
 $S:0}
 A.adu.prototype={
 $0(){var s,r=$.m8().gG()
 if(r!=null){s=this.a.d
-r.mm(A.kH(s.a,s.$ti.c).length===0?"Stack is empty":"Stack is not empty")}},
+r.mm(A.kH(s.a,s.$ti.c).length===0?"A pilha S est\xe1 vazia":"A pilha S n\xe3o est\xe1 vazia")}},
 $S:0}
 A.adv.prototype={
 $1(a){var s=this.a
