@@ -34690,10 +34690,10 @@ s=new A.d6(B.eK,m,m,m,m,m,B.aD)
 k=A.k6(m,k)
 r=A.tR(4)
 r=A.ano(A.cV("Pilha - Cormen et al.",m,m,m,m,A.e5(m,m,B.k,m,m,m,m,m,m,m,m,18,m,m,B.ce,m,m,!0,m,m,m,m,m,m,m,m),m,m),new A.d6(B.dz,m,m,r,m,m,B.aD),"Pilha Thomas H. Cormen... [et al.]  [tradu\xe7\xe3o Arlete Simille Marques]. - Rio de Janeiro : Elsevier, 2012. il",!1,B.jB,20)
-r=A.ms(B.ey,A.xu(A.b([r,A.Xy(m,m,A.Xx(n.f?B.Cm:B.Cl,m,m),m,new A.ado(n),m,m)],j),B.iP,B.ay),B.C,B.dz,m,m,m,50,m,new A.aD(16,0,16,0),m,m,m)
+r=A.ms(B.ey,A.xu(A.b([r,A.Xy(B.k,m,A.Xx(n.f?B.Cm:B.Cl,m,m),m,new A.ado(n),m,m)],j),B.iP,B.ay),B.C,B.dz,m,m,m,50,m,new A.aD(16,0,16,0),m,m,m)
 q=A.ds(m,20,m)
 p=A.alk(m,new A.hg(4,B.dn,B.kn),m,new A.aD(8,4,8,4),m,m,m,m,!0,m,m,m,m,m,m,B.k,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,"x",m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m)
-q=A.F1(A.hQ(A.b([new A.o4(n.d,7,m),q,A.xu(A.b([A.ds(new A.yx(n.x,p,B.Lw,B.KF,B.KG,!0,m),m,80),A.ds(m,m,16),A.ah8(A.cV("Push",m,m,m,m,m,m,m),new A.adp(n)),A.ds(m,m,16),A.ah8(A.cV("Pop",m,m,m,m,m,m,m),new A.adq(n)),A.ds(m,m,16),A.ah8(A.cV("Empty",m,m,m,m,m,m,m),new A.adr(n))],j),B.e_,B.ay)],j),B.aI,B.e_,B.ay))
+q=A.F1(A.hQ(A.b([new A.o4(n.d,7,m),q,A.xu(A.b([A.ds(new A.yx(n.x,p,B.Lw,B.KF,B.KG,!0,m),m,80),A.ds(m,m,16),A.ah8(A.cV("Push(S, x)",m,m,m,m,m,m,m),new A.adp(n)),A.ds(m,m,16),A.ah8(A.cV("Pop (S)",m,m,m,m,m,m,m),new A.adq(n)),A.ds(m,m,16),A.ah8(A.cV("Stack-Empty(S)",m,m,m,m,m,m,m),new A.adr(n))],j),B.e_,B.ay)],j),B.aI,B.e_,B.ay))
 p=A.dh(0,300)
 o=n.f?new A.ab(0,1/0,0,150):new A.ab(0,1/0,0,0)
 return new A.xv(A.xu(A.b([new A.tx(i,s,k,B.a2,l,m,m),A.F1(A.hQ(A.b([r,q,A.agE(new A.h1(o,A.ds(new A.yr($.m6()),m,1/0),m),B.f2,p)],j),B.aI,B.ax,B.ay))],j),B.ax,B.ay),m)}}
@@ -34757,7 +34757,7 @@ $S:0}
 A.adf.prototype={
 $0(){var s,r=this.a.d
 if(A.kF(r.a,r.$ti.c).length===0){r=$.m6().gG()
-if(r!=null)r.ml("Error: 'Underflow'")}else{s=$.m6().gG()
+if(r!=null)r.ml("Error: 'underflow'")}else{s=$.m6().gG()
 if(s!=null)s.ml("Stack was popped with P(S)")
 r.ea()}},
 $S:0}
