@@ -6409,8 +6409,7 @@ Eo:function Eo(a){this.a=a},
 y8:function y8(a){this.a=a},
 P1:function P1(a,b){var _=this
 _.d=a
-_.f=!0
-_.r=!1
+_.r=_.f=!0
 _.w="Stack"
 _.x=150
 _.y=b
