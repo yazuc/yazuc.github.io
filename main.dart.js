@@ -35044,7 +35044,7 @@ s=q.a.c
 r=A.fa(s.b,!1,s.$ti.i("1?"))
 r.$flags=3
 o[n]=r[n];++n}s=t.D
-return A.ew(A.b([A.o_(A.Gf(q.a.d,new A.aed(q,o),!0,t.l7),B.cp,B.a_),A.dr(p,20,p),A.o_(A.b([A.dr(A.ao6(q.a.e,A.amf(p,new A.fG(4,B.cF,B.hA),p,new A.aD(8,4,8,4),p,p,p,p,!0,p,p,p,p,p,p,B.k,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,"Valor",p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p),B.xu),p,80),A.dr(p,p,16),A.Fb(A.cl("Push(S, x)",p,p,p,p,p,p,p),new A.aee(q)),A.dr(p,p,16),A.Fb(A.cl("Pop(S)",p,p,p,p,p,p,p),new A.aef(q)),A.dr(p,p,16),A.Fb(A.cl("Stack-Empty(S)",p,p,p,p,p,p,p),new A.aeg(q))],s),B.cp,B.a_)],s),B.aj,B.a8,B.a_)}}
+return A.ew(A.b([A.o_(A.Gf(q.a.d,new A.aed(q,o),!0,t.l7),B.cp,B.a_),A.dr(p,20,p),A.o_(A.b([A.dr(A.ao6(q.a.e,A.amf(p,new A.fG(4,B.cF,B.hA),p,new A.aD(8,4,8,4),p,p,p,p,!0,p,p,p,p,p,p,B.k,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,"Valor",p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p),B.xu),p,80),A.dr(p,p,16),A.Fb(A.cl("Push(S, x)",p,p,p,p,p,p,p),new A.aee(q)),A.dr(p,p,16),A.Fb(A.cl("Pop(S)",p,p,p,p,p,p,p),new A.aef(q)),A.dr(p,p,16),A.Fb(A.cl("Pilha-Vazia(S)",p,p,p,p,p,p,p),new A.aeg(q))],s),B.cp,B.a_)],s),B.aj,B.a8,B.a_)}}
 A.aec.prototype={
 $0(){},
 $S:0}
